@@ -5,9 +5,9 @@ def getPrefixSuffix(a, b, l):
 
 	return (prefix + suffix)
 
-a = 'ali'
-b = 'lia'
-l = 5
+a = 'test'
+b = 'sti'
+l = 4
 print(getPrefixSuffix(a, b, l))
 
 
