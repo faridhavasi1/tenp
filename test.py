@@ -1,4 +1,3 @@
-
 def getPrefixSuffix(a, b, l):
 	prefix = a[: l]
 	lb = len(b)
